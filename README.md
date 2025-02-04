@@ -1,6 +1,7 @@
 # Resume CLI
 This is my adaptation of [karanpargal](https://github.com/karanpargal)'s command-line interface (CLI) portfolio made using Rust. It provides a simple and interactive way to showcase your internships/projects and skills in a terminal environment. With this portfolio, you can easily manage and present your work to others.
 
+![CLI_test copia](https://github.com/user-attachments/assets/3106a981-1870-4990-b986-26cecf32c7a5)
 
 ## Features
 - Interactive Command Line Interface: The portfolio is designed to be used in the terminal, providing an interactive and user-friendly experience.
@@ -25,7 +26,7 @@ After the build process is completed, you can run the portfolio:
 cargo run
 ```
 
-You can also eventually branch the original project by [karanpargal](https://github.com/karanpargal/resume-cli) –just like I also did.
+You can also eventually branch the [original project by karanpargal](https://github.com/karanpargal/resume-cli) –just like I also did.
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code as per your needs.
