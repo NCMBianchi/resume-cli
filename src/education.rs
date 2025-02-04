@@ -1,25 +1,25 @@
 use colored::Colorize;
 use serde_json::{Result, Value};
 
-pub fn show_experience(json_data: &str) -> Result<()> {
+pub fn show_education(json_data: &str) -> Result<()> {
     let v: Value = serde_json::from_str(json_data)?;
     let mut i = 0;
     loop {
-        let exp = &v["Experiences"][i];
+        let exp = &v["Education"][i];
         if exp.is_null() {
             break;
         }
         println!("");
-        println!("{} #{}", "Experience".bold(), (i + 1).to_string().bold());
+        println!("{} #{}", "Education".bold(), (i + 1).to_string().bold());
         println!(
             "{} : {}",
-            "Position".red().bold(),
-            exp["Position"].as_str().unwrap().bright_red()
+            "Degree".red().bold(),
+            exp["Degree"].as_str().unwrap().bright_red()
         );
         println!(
             "{} : {}",
-            "Company".yellow().bold(),
-            exp["Company"].as_str().unwrap().bright_green()
+            "University".yellow().bold(),
+            exp["University"].as_str().unwrap().bright_green()
         );
         println!(
             "{} : {}",

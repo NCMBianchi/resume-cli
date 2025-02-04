@@ -1,0 +1,44 @@
+{
+  "Repositories": [
+    {
+      "Name": "DrugRepurposing",
+      "github_link": "https://github.com/NCMBianchi/DrugRepurposing",
+      "gitlab_link": "https://gitlab.com/NCMBianchi/DrugRepurposing",
+      "Languages": "Python, Dockerfile, HTML, CSS, Js",
+      "Description": [
+        "Automated drug repurposing workflow for rare diseases – using Flask, Monarch API, DGIdb API and XGboost.",
+        "Currently under further development for a scientific publication."
+      ]
+    },
+    {
+      "Name": "OMIM-converter",
+      "github_link": "https://github.com/NCMBianchi/OMIM-converter",
+      "gitlab_link": "https://gitlab.com/NCMBianchi/omim-converter",
+      "Languages": "Js, Python",
+      "Description": [
+        "A JavaScript conversion tool for Open Data Science URIs.",
+        "Necessary to solve an issue with Monarch Initiative's API not allowing for queries with OMIM inputs."
+      ]
+    },
+    {
+      "Name": "claudecho",
+      "github_link": "https://github.com/NCMBianchi/claudecho",
+      "gitlab_link": "https://gitlab.com/NCMBianchi/claudecho",
+      "Languages": "Python, Shell",
+      "Description": [
+        "An interactive CLI for Claude using Anthropic's API keys.",
+        "A fork of another repository of mine doing the same with OpenAI's API keys."
+      ]
+    },
+    {
+      "Name": "geneObjects",
+      "github_link": "https://github.com/NCMBianchi/geneObjects",
+      "gitlab_link": "https://gitlab.com/NCMBianchi/geneobjects",
+      "Languages": "R",
+      "Description": [
+        "An R package to handle a set of S4-class for different gene types.",
+        "Simple test repository for a class at Università degli Studi di Milano (2022-2024)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Niccolò Bianchi",
+  "intro": "computer scientist for biological studies, currently learning other coding languages",
+  "_career": "I am a proficient and driven {} {}.",
+  "career_1": "bioinformatician",
+  "career_2": "focusing on data-analysis and pipeline development",
+  "_coding_skills": "I possess diverse technical skills, including proficiency in programming languages such as {}.",
+  "coding_skills": "Python, R, Js and Rust",
+  "_general_skills": "With practical knowledge in {} I have the capacity to tackle complex projects in scientific research via computational sciences.",
+  "general_skills": "machine learning, biosematnics and statistics"
+}

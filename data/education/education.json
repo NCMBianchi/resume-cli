@@ -1,0 +1,37 @@
+{
+  "Education": [
+    {
+      "Degree": "MSc in Bioinformatics for Computational Genomics",
+      "University": "Univerità degli Studi di Milano",
+      "Location": "Milano, Italy",
+      "Duration": "Sep 2022 - Oct 2024",
+      "Description": [
+        "Focusing on computational approaches for modern scientific research in biological studies.",
+        "Based on a strong statistical perspective over healthcare-related big data.",
+        "Several practical laboratories on coding in Python and R for data analysis and machine learning.",
+        "Experimental thesis while on ERASMUS+ at Universiteit Leiden, focusing on semi-automated Drug Repurposing."
+      ]
+    },
+    {
+      "Degree": "MSc in Biobusiness and Medical Sciences",
+      "University": "University of Aberdeen",
+      "Location": "Aberdeen, UK",
+      "Duration": "Sep 2012 - Nov 2013",
+      "Description": [
+        "Bridging between start-up management and medical research.",
+        "Strong emphasis on patent law, immunology, business cases and literature review.",
+        "Experimental thesis, focusing on validating scAb against C.albicans infections in G.melonella."
+      ]
+    },
+    {
+      "Degree": "BSc in Medical and Pharmaceutical Biotechnology",
+      "University": "Università Vita-Salute San Raffaele",
+      "Location": "Milano, Italy",
+      "Duration": "Sep 2008 - July 2012",
+      "Description": [
+        "Wide array of topics ranging from molecular biology to physics.",
+        "Literature review thesis, focusing on strategies to develop a 'universal' vaccine against Flu."
+      ]
+    }
+  ]
+}

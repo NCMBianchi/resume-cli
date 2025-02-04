@@ -1,6 +1,10 @@
 {
-    "Web Technologies": "HTML, CSS, React.js, Node.js, Express.js, MongoDB, Django, ether.js, web3.js",
-    "Languages": "Python, Solidity, Javascript, Typescript, Rust, C, C++, SQL",
-    "AI/ML": "Tensorflow, PyTorch, Scikit-learn, Pandas, Numpy, NLP, CV",
-    "DevOps": "AWS, GCP, Docker"
+  "Web Technologies": "HTML, CSS, Flask, Javascript",
+  "Languages": "Python, R, Rust, Bash, SQL, Excel VBA",
+  "AI/ML": "PyTorch, Scikit-learn, Pandas, Numpy, Matplotlib, NLP, CV",
+  "DevOps": "Docker, AWS, GCP",
+  "Bioinformatics CLIs": "Bowtie, Samtools, Bedtools, BWA, Freebayes",
+  "Visualization": "Seaborn, ggplot2, UMAP, Seurat",
+  "Runtimes": "Node.js, Bun",
+  "OS": "MacOS, Ubuntu"
 }
